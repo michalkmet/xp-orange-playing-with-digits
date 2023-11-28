@@ -45,7 +45,7 @@ Pomodoro 2:
 - ✅ DONE UAT1.1: When I pass (1, 1), then I should see 1
 - ✅ DONE UAT1.2: When I pass (2, 1), then I should see 1
 - ✅ DONE UAT1.3: When I pass (3, 1), then I should see 1
-- ⚠ TODO UAT1.4: When I pass (9, 1), then I should see 1
+- ✅ DONE UAT1.4: When I pass (9, 1), then I should see 1
 - ⚠ TODO UAT1.5: When I pass (10, 1), then I should see -1
 - ⚠ TODO UAT1.6: When I pass (15, 1), then I should see -1
 - ⚠ TODO UAT1.7: When I pass (33, 1), then I should see -1
