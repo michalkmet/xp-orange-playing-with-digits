@@ -1,5 +1,5 @@
 function playingWithDigits() {
-  return 'hello';
+  return 1;
 }
 
 module.exports = playingWithDigits;
