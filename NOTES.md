@@ -33,7 +33,7 @@ n = 46288; p = 3 ---> 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688 = 46288 
 Pomodoro 1:
 - ✅ DONE plan pomodoro 1
 - ✅ DONE create backlog file
-- ⚠ TODO refactor names/files
+- ✅ DONE refactor names/files
 - ✅ DONE add project description
 - ⚠ TODO create examples
 - ⚠ TODO create User stories and UATs
