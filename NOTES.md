@@ -35,5 +35,5 @@ Pomodoro 1:
 - ✅ DONE create backlog file
 - ✅ DONE refactor names/files
 - ✅ DONE add project description
-- ⚠ TODO create examples
+- 🚧 IN PROGRESS create examples
 - ⚠ TODO create User stories and UATs
