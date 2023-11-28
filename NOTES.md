@@ -42,8 +42,8 @@ Pomodoro 2:
 - ✅ DONE create User stories and UATs
 - 🚧 IN PROGRESS User Story 1: p = 1
 
-- 🚧 IN PROGRESS UAT1.1: When I pass (1, 1), then I should see 1
-- ⚠ TODO UAT2.1: When I pass (2, 1), then I should see 1
+- ✅ DONE UAT1.1: When I pass (1, 1), then I should see 1
+- ✅ DONE UAT2.1: When I pass (2, 1), then I should see 1
 - ⚠ TODO UAT3.1: When I pass (3, 1), then I should see 1
 - ⚠ TODO UAT4.1: When I pass (9, 1), then I should see 1
 - ⚠ TODO UAT5.1: When I pass (10, 1), then I should see -1
