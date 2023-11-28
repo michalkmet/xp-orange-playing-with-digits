@@ -39,4 +39,4 @@ Pomodoro 1:
 
 Pomodoro 2:
 - ✅ DONE create examples
-- ⚠ TODO create User stories and UATs
+- ✅ DONE create User stories and UATs
