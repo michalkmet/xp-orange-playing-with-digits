@@ -36,4 +36,7 @@ Pomodoro 1:
 - ✅ DONE refactor names/files
 - ✅ DONE add project description
 - 🚧 IN PROGRESS create examples
+
+Pomodoro 2:
+- ✅ DONE create examples
 - ⚠ TODO create User stories and UATs
