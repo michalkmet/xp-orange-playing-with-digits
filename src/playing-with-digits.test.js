@@ -7,4 +7,7 @@ describe('User Story 1: p = 1', () => {
   it('UAT2.1: When I pass (2, 1), then I should see 1', () => {
     expect(playingWithDigits(2, 1)).toBe(1);
   });
+  it('UAT1.3: When I pass (3, 1), then I should see 1', () => {
+    expect(playingWithDigits(3, 1)).toBe(1);
+  });
 });
