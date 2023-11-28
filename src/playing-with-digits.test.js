@@ -13,4 +13,7 @@ describe('User Story 1: p = 1', () => {
   it('UAT1.4: When I pass (9, 1), then I should see 1', () => {
     expect(playingWithDigits(9, 1)).toBe(1);
   });
+  it('UAT1.5: When I pass (10, 1), then I should see -1', () => {
+    expect(playingWithDigits(10, 1)).toBe(-1);
+  });
 });
