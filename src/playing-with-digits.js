@@ -8,12 +8,14 @@ function playingWithDigits(n, p) {
 
   let sumOfPows = 0;
   for (let i = 0; i < numberArr.length; i++) {
-    console.log('Math.pow(numberArr[i], p): ', Math.pow(numberArr[i], p));
-    sumOfPows += Math.pow(numberArr[i], p);
+    let power = i === 0 ? p : p + i;
+    console.log('power: ', power);
+    console.log('Math.pow(numberArr[i], power): ', Math.pow(numberArr[i], power));
+    sumOfPows += Math.pow(numberArr[i], power);
   }
 
   console.log('sumOfPows: ', sumOfPows);
-  if (n === 10 || n === 15 || n === 33) {
+  if (sumOfPows < n || sumOfPows % n != 0) {
     return -1;
   }
   return 1;
