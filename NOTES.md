@@ -58,3 +58,4 @@ Pomodoro 3:
 
 - 🚧 IN PROGRESS User Story 2: p = 2
 - ✅ DONE UAT2.1: When I pass (695, 2), then I should see 2
+- ✅ DONE Refactor
