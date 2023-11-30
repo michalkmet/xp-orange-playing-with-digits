@@ -55,3 +55,6 @@ Pomodoro 2:
 Pomodoro 3:
 - ✅ DONE UAT1.9: When I pass (92, 1), then I should see -1
 - ✅ DONE UAT1.10: When I pass (111, 1), then I should see -1
+
+- 🚧 IN PROGRESS User Story 2: p = 2
+- ✅ DONE UAT2.1: When I pass (695, 2), then I should see 2

@@ -32,3 +32,9 @@ describe('User Story 1: p = 1', () => {
     expect(playingWithDigits(111, 1)).toBe(-1);
   });
 });
+
+describe('User Story 2: p = 2', () => {
+  it('UAT2.1: When I pass (695, 2), then I should see 2', () => {
+    expect(playingWithDigits(695, 2)).toBe(2);
+  });
+});

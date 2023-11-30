@@ -17,8 +17,11 @@ function playingWithDigits(n, p) {
   console.log('sumOfPows: ', sumOfPows);
   if (sumOfPows < n || sumOfPows % n != 0) {
     return -1;
+  } else {
+    console.log('sumOfPows / n: ', sumOfPows / n);
+    return sumOfPows / n;
   }
-  return 1;
+  // return 1;
 }
 
 module.exports = playingWithDigits;
